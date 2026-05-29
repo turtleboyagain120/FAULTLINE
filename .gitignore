@@ -1,0 +1,55 @@
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Dependencies / package managers
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build / output folders
+dist/
+build/
+out/
+coverage/
+.cache/
+.parcel-cache/
+
+# Logs and reports
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+browser-*.json
+
+# Local browser / probe artifacts
+edge-crash-profile*/
+cdp_probe_faultline.py
+cdp_probe_faultline.ps1
+__pycache__/
+video-frames/
+
+# Old engine conversion scratch folders
+FAULTLINE_Unity/
+FAULTLINE_GameMaker/
+gm-cache/
+gm_template_blank/
+options.ini
+
+# Large temporary media exports
+*.mp4
+*.mov
+*.webm
+*.avi
+
