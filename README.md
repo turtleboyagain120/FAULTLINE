@@ -81,7 +81,7 @@ See the `starter-art-bundle/` folder for:
 - Ideas for extending the game
 - Fork notes for your own modifications
 
-Check the included README files in each folder for detailed guidance.
+Check the included README files in the folder `starter-art-bundle/` for detailed guidance.
 
 ---
 
